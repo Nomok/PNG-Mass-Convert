@@ -1,2 +1,2 @@
 # PNG-Mass-Convert
-A Quick and Dirty Mass Image Converter
+A quick and dirty program that converts all images in a directory to PNG
